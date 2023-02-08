@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "online-shop",
+        "JWT_KEY": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6InBldGVyIG11dHVuZ2EiLCJhZG1pbiI6dHJ1ZSwiaWF0IjoxNTE2MjM5MDIyfQ.bpV9vgD8hFX9bXOAXl9t8PbszGSeh1U6wd6Q5clL3p85aeDfqPnQoMVvW"
+    }
+}
